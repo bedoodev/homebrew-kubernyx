@@ -1,8 +1,8 @@
 cask "kubernyx" do
-  version "0.1.0"
-  sha256 "127768c8dc2c6920ae2009941e7e80a8310b620155ac044be737936f7faa42b5"
+  version "0.2.0"
+  sha256 "40c6ad0df229b74f755414b940ae2b5595a0a108350c2998e3de5dc3c08383dc"
 
-  url "https://github.com/bedoodev/kubernyx/releases/download/v0.1.0/kubernyx.app.zip"
+  url "https://github.com/bedoodev/kubernyx/releases/download/v0.2.0/kubernyx.app.zip"
   name "Kubernyx"
   desc "Simple Kubernetes IDE"
   homepage "https://github.com/bedoodev/kubernyx"
