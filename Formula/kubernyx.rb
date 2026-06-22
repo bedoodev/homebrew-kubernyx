@@ -1,9 +1,9 @@
 class Kubernyx < Formula
   desc "Simple Kubernetes IDE"
   homepage "https://github.com/bedoodev/kubernyx"
-  url "https://github.com/bedoodev/kubernyx/releases/download/v0.2.0/kubernyx-darwin-arm64.tar.gz"
-  version "0.2.0"
-  sha256 "5cbaaa502b82d2c43b76425e3e9ede3f503fbb6a0744ddc6e3d39c8cbcde89b7"
+  url "https://github.com/bedoodev/kubernyx/releases/download/v0.2.1/kubernyx-darwin-arm64.tar.gz"
+  version "0.2.1"
+  sha256 "bd85e18e2863316c28cd06a0d46bf697f3dfa4608af96c2c8cac4b9272199371"
 
   def install
     bin.install "kubernyx"

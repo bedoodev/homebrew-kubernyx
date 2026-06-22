@@ -1,6 +1,6 @@
 cask "kubernyx" do
-  version "0.2.0"
-  sha256 "a008a5ca5e3cc8cabd7564b641e168856865de8ccc686b5dc8cf3dbc5b129503"
+  version "0.2.1"
+  sha256 "c82d5a2ec0c4d3d5ddeb0cde141cf0f59a3232ae6c038590cfde179c3d956df4"
 
   url "https://github.com/bedoodev/kubernyx/releases/download/v#{version}/kubernyx.app.zip"
   name "Kubernyx"
